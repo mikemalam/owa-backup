@@ -6,12 +6,12 @@ You will be asked the adress, your username, your password and the email you wan
 ## Getting Started
 
 You need linux and Python3 installed. It should be easy to run it on Macos or Winows.
-You will also need to install all th elibraries used. You can see the list à the beginning of the script.
-You will alse neef Firefox installed.
+You will also need to install all the libraries used. You can see the list à the beginning of the script.
+You will also need Firefox.
 
-## Authors
+## Author
 
-* **mikemalam** - *Initial work* - [PurpleBooth](https://github.com/mikemalam)
+* **mikemalam** - *Initial work* - [mikemalam](https://github.com/mikemalam)
 
 ## License
 
