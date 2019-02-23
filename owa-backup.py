@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#! /usr/bin/env python3
 # owa2pdf.py - Sauvegarde les emails d'une messagerie Outlook via un site web.
 
 # import libraries.
