@@ -5,9 +5,9 @@ You will be asked the adress, your username, your password and the email you wan
 
 ## Getting Started
 
-You need Linux and Python3 installed. It should be easy to run it on OS X or Widnows.
-You will also need to install all the libraries used. You can see the list à the beginning of the script.
-You will also need Firefox.
+You Python3 installed.It has been tested on Linux and OS X but should be easy to run on Windows.
+You will also need to install all the libraries used (pip3 install or pip install xxx). You can see the list à the beginning of the script. 
+You will also need Firefox, GeckoDriver and wkhtmltopdf programs.
 
 ## Author
 
