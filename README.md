@@ -1,7 +1,9 @@
 # Owa backup
 
 Backup your email messagery using Outlook Web App even if you don't have the option enabled.
-You will be asked the adress, your username, your password and the email you want to receive the link to download the .zip file (using dl.free.fr service). 
+You will be asked the adress, your username, your password and the email you want to receive the link to download the .zip file (using dl.free.fr service).
+Only the Inbox repository works.
+I was tested on 14.3 version.
 
 ## Getting Started
 
