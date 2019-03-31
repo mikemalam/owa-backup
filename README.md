@@ -8,7 +8,8 @@ I was tested on 14.3 version.
 ## Getting Started
 
 Python3 must be installed. It has been tested on Linux and OS X but should be easy to run on Windows. 
-You will also need to install all the libraries used (pip3 install or pip install xxx). You can see the list à the beginning of the script. 
+You will also need to install all the libraries used (pip3 install or pip install xxx). 
+"pip3 install unidecode pdfkit pyautogui selenium"
 You will also need Firefox, GeckoDriver and wkhtmltopdf programs.
 
 ## Author
